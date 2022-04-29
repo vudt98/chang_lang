@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StorageTest</string>
+
+    <string name="text_temp">    Ở đây, setupFlow () là hàm mà chúng ta sẽ xác định luồng và setupClicks () là hàm mà chúng ta sẽ nhấp vào nút để hiển thị dữ liệu được phát ra từ luồng.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StorageTest</string>
+    <string name="rename_title" translatable="false">Rename</string>
+    <string name="rename_okay" translatable="false">Rename</string>
+    <string name="rename_cancel" translatable="false">Cancel</string>
+    <string name="error_no_activity" translatable="false">No activity found to open "%1$s".</string>
+
+    <string name="text_temp">Here, setupFlow() is the function where we will define the flow and setupClicks() is the function where we will click the button to display the data which is emitted from the flow.</string>
+</resources>
